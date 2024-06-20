@@ -2,4 +2,6 @@
 
 -Estado del **Proyecto** en contrucción
 
-https://en.support.wordprss.com/markdown-quick-reference/
+Para ejecutar el sistema debes poner:
+
+´´´npm install react´´´
